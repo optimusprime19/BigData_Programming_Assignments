@@ -1,0 +1,41 @@
+Initially started with Tensorflow getting started tutorial and made the below submissions
+
+
+List of Submissions I have made to Kaggle and Progress
+
+
+wrote the fully connected layer with an accuaracy of 91 %
+    (Not submitted in Kaggle)
+
+Below 6 are submitted to kaggle  (4, 5 aren’t of much progress)
+
+Wrote 3 layer CNN with 1 fully connected and an accuracy of 96%
+File name : Code : mnist_nn_final.py 
+          Result : submission_1.csv    
+Increased on the data set sizes and improvised the batch set and made accuracy to 97%          
+File name : Code : mnist_nn_final_2ndSubmit.py
+          Result : submission_2.csv
+4, 5 aren’t much progress 
+
+     6. Developed 7 CNN and submitted the code still accuracy remains at 95%
+File name : Code : mnist_7lay_submitted.py
+          Result : 
+
+
+     7. Identifed a bug in 7 CNN and resubmitted. 
+File name : Code : mnist_7layers_modified.py
+          Result : submission_2.csv
+
+
+
+
+Analysis 
+
+
+Used different optimizers and there isn’t much difference as the dataset is relatively small, could able to see all boiling down to similar error rates.
+
+Faced issues with data extraction, fixed bugs and improved accuracy by designing 7 layer CNN with architecture “CCCPCCCPFF”
+
+
+
+
